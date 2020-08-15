@@ -1,0 +1,24 @@
+{
+  "name": "sms-sdk",
+  "version": "0.0.7",
+  "description": "创蓝短信和网易云信sdk",
+  "main": "sms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "keywords": [
+    "创蓝",
+    "网易云信",
+    "短信",
+    "netease",
+    "message"
+  ],
+  "author": {
+    "name": "Lu Xinxin",
+    "email": "1135877970@qq.com"
+  },
+  "license": "ISC"
+}
