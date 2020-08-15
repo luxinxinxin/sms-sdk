@@ -18,7 +18,8 @@
   ],
   "author": {
     "name": "Lu Xinxin",
-    "email": "1135877970@qq.com"
+    "email": "1135877970@qq.com",
+    "url": "https://github.com/luxinxinxin/sms-sdk",
   },
   "license": "ISC"
 }
